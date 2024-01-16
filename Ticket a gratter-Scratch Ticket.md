@@ -1,6 +1,6 @@
 ### Traduction disponible / Available translate :
 * [Francais / French](https://github.com/TokyoSlayers/PluginAzurium/blob/main/Ticket%20a%20gratter-Scratch%20Ticket.md#document-dutilisation-du-ticket-%C3%A0-gratter)
-* [Anglais / English]()
+* [Anglais / English](https://github.com/TokyoSlayers/PluginAzurium/blob/main/Ticket%20a%20gratter-Scratch%20Ticket.md#scratch-ticket-usage-document)
 
 
 # Scratch ticket usage document
